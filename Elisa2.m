@@ -14,3 +14,7 @@ plot(r)
 % added a comment
 
 % added another comment
+
+% Another plot seems good here
+r = normrnd(1,1,[1 140]);
+plot(r)
