@@ -23,15 +23,7 @@
 %TCIDATA{<META NAME="SaveForMode" CONTENT="1">}
 %TCIDATA{BibliographyScheme=Manual}
 %TCIDATA{Created=Wednesday, November 13, 2013 12:40:04}
-<<<<<<< HEAD
-<<<<<<< HEAD
-%TCIDATA{LastRevised=Thursday, July 23, 2015 17:32:53}
-=======
-%TCIDATA{LastRevised=Thursday, July 23, 2015 17:36:45}
->>>>>>> origin/master
-=======
-%TCIDATA{LastRevised=Thursday, July 23, 2015 17:36:45}
->>>>>>> origin/master
+%TCIDATA{LastRevised=Monday, July 27, 2015 12:41:15}
 %TCIDATA{<META NAME="GraphicsSave" CONTENT="32">}
 %TCIDATA{<META NAME="DocumentShell" CONTENT="Standard LaTeX\Blank - Standard LaTeX Article">}
 %TCIDATA{CSTFile=40 LaTeX article.cst}
@@ -96,21 +88,16 @@ I don't know if it is better to write $f_{\boldsymbol{X}}\left( \boldsymbol{x%
 
 ciao da Elisa
 
-\bigskip 
+\bigskip
 
 ciao Francesco
 
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
-=======
->>>>>>> origin/master
 \bigskip 
 
 ciao
 
-<<<<<<< HEAD
->>>>>>> origin/master
-=======
->>>>>>> origin/master
+\bigskip 
+
+Ciao da Marcello
+
 \end{document}
