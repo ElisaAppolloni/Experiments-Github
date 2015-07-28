@@ -24,7 +24,11 @@
 %TCIDATA{BibliographyScheme=Manual}
 %TCIDATA{Created=Wednesday, November 13, 2013 12:40:04}
 <<<<<<< HEAD
+<<<<<<< HEAD
 %TCIDATA{LastRevised=Thursday, July 23, 2015 17:32:53}
+=======
+%TCIDATA{LastRevised=Thursday, July 23, 2015 17:36:45}
+>>>>>>> origin/master
 =======
 %TCIDATA{LastRevised=Thursday, July 23, 2015 17:36:45}
 >>>>>>> origin/master
@@ -97,10 +101,16 @@ ciao da Elisa
 ciao Francesco
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> origin/master
 \bigskip 
 
 ciao
 
+<<<<<<< HEAD
+>>>>>>> origin/master
+=======
 >>>>>>> origin/master
 \end{document}
